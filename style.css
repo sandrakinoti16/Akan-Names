@@ -36,3 +36,8 @@ body{
     color:rgb(255, 255, 255);
     font-family: 'Quattrocento', serif;
   }
+
+  .form{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
