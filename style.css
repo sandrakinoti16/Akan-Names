@@ -81,27 +81,30 @@ body{
       #heading img{
         float: left;
         width: 40%;
-        height: 60%;;
+        height: 60%;
       }
-      #heading img{
-        float: left;
-        width: 10%;
-        margin-top: -10px;
-      }
-      .card{
-        background: rgb(5, 44, 85);
-      }
-      .card-body{
-        color: rgb(7, 1, 1);
-      }
-      .card-deck {
-        padding-bottom: 20px;
-        font-weight: 600;
-        font-family: 'Sorts Mill Goudy', serif;
-        font-size: 18px;
-      }
-      
-      .card-text a:hover{
-        color: rgb(0, 0, 0);
-        text-decoration: none;
-      }
+  }
+  #heading img{
+    float: left;
+    width: 10%;
+    margin-top: -10px;
+  }
+  .card{
+    background: rgb(145, 168, 192);
+  }
+  .card-body{
+    color: rgb(0, 0, 0);
+  }
+  .card-deck{
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 18px;
+  }
+  
+
+  .card-text a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
