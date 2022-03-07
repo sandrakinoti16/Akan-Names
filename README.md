@@ -1,18 +1,18 @@
 # Akan-Names
-#**Author**
+**Author**
 Sandra Kinoti
-#**Description**:
+**Description**:
 This is a web application that allows users to find the day they were born in an easy and fast way with outputting akan names which is ghanian tradition of naming their childern according to the day they were born.
-#**Technologies used**
+**Technologies used**
 html
 javascript
 css
 bootstrap
-#**Installation/Setup Instructions** .open vs code and click on terminal and then new terminalgit 
+**Installation/Setup Instructions** .open vs code and click on terminal and then new terminalgit 
 .git clone https://github.com/sandrakinoti16/Akan-Names
 .cd akan-names
 . code . if you use visual studio code
-#**BDD**
+**BDD**
 Enter year of Birth eg 19 for 2007 Input Example 19 Output Example 19
 
 Enter month of birth eg 1 for january Input example 1 Output example 1
@@ -35,11 +35,11 @@ year input -- 19
 month input -- 7
 date input -- 14
 gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
-#**Known Bugs**
+**Known Bugs**
 Im not aware of any bugs if their are make sure to let me know
-#**Contact Information**
+**Contact Information**
 To reach me email me sandrakinya6@gmail.com
-#**licence information**
+**licence information**
 This link will provide the licence and copyright information :https://github.com/sandrakinoti16/Akan-Names/blob/master/LICENSE contains MIT licence and copyright Copyright (c) 2022 sandrakinoti16
 
 
