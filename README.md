@@ -4,10 +4,10 @@ Sandra Kinoti
 ## Description:
 This is a web application that allows users to find the day they were born in an easy and fast way with outputting akan names which is ghanian tradition of naming their childern according to the day they were born.
 ## Technologies used
-*html
-*javascript
-*css
-*bootstrap
+* html
+* javascript
+* css
+* bootstrap
 ## Installation/Setup Instructions
 .open vs code and click on terminal and then new terminalgit 
 .git clone https://github.com/sandrakinoti16/Akan-Names
