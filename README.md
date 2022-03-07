@@ -39,7 +39,7 @@ gender -- male selected, Expected output is You were born on Sunday and Your aka
 ## Known Bugs
 Im not aware of any bugs if their are make sure to let me know
 ## Contact Information
-To reach me email me sandrakinya6@gmail.com
+To reach me email me at sandrakinya6@gmail.com
 ## licence information
 This link will provide the licence and copyright information :https://github.com/sandrakinoti16/Akan-Names/blob/master/LICENSE contains MIT licence and copyright Copyright (c) 2022 sandrakinoti16
 
