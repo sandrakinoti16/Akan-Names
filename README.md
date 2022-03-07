@@ -9,10 +9,10 @@ This is a web application that allows users to find the day they were born in an
 * css
 * bootstrap
 ## Installation/Setup Instructions
-.open vs code and click on terminal and then new terminalgit 
-.git clone https://github.com/sandrakinoti16/Akan-Names
-.cd akan-names
-. code . if you use visual studio code
+* open vs code and click on terminal and then new terminalgit 
+* git clone https://github.com/sandrakinoti16/Akan-Names
+* cd akan-names
+* code . if you use visual studio code
 ## BDD
 Enter year of Birth eg 19 for 2007 Input Example 19 Output Example 19
 
